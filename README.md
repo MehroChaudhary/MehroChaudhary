@@ -2,4 +2,4 @@
 - 👀 I’m interested in Development projects.
 - 🌱 I’m currently learning Pythen
 - 💞️ I’m looking to collaborate on Python related projects.
-- 📫 How to reach me  ... contact me at mehro_chaudhary@yahoo.com
+
